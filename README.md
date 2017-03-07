@@ -34,9 +34,18 @@ url="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Analysis3Q1emai
 #Qestion 2
 
 #Analysis1
-This analysis is all about finding how frequently terrorist attacks, shooting and murder occur in the Lead Paragraphs that are related to Boston and California
-So the glocation Keyword is searched for name and the Value is passed as Boston and california.
-Count is incremented to find Number of Shootings,crime and murder in boston and california.
+This analysis is all about finding how frequently terrorist attacks, shooting and murder occur in the Lead Paragraphs that are related to Boston and Texas
+So the glocation Keyword is searched for name and the Value is passed as Boston and texas.
+Count is incremented to find Number of Shootings,crime and murder in boston and texas.
+
+<img 
+src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Q2Analysis1.PNG" alt='sadad'/>
+
+Analysis 2
+
+Analysing the prescense of crime in the city og boston alone
+Displays the amount of times the word 'crime' has occured in every lead paragraph individually
+
 
 
 
