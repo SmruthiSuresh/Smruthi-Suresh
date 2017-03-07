@@ -41,7 +41,7 @@ Count is incremented to find Number of Shootings,crime and murder in boston and 
 <img 
 src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Q2Analysis1.PNG" alt='sadad'/>
 
-Analysis 2
+#Analysis 2
 
 Analysing the prescense of crime in the city og boston alone
 Displays the amount of times the word 'crime' has occured in every lead paragraph individually
