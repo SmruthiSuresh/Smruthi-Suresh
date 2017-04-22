@@ -41,7 +41,44 @@ Function that returns the quality of educaiton is defined
 A dataframe containing worldrank,country and quality of education of USA ad UK is defined
 USA is passed as the argument to the funciton so that the quality of education of only the universities in USA is considered
 
-A seaborn plot of
+A seaborn plot showing the quality of education of both UK and USA is plotted
+
+
+<img 
+src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Analysis3Part1.PNG" alt='sadad'/>
+
+
+<img 
+src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Anal3Part1b.PNG" alt='sadad'/>
+
+Part 2: Analysing the difference in ranking from 2005 to 2015 for the top 81 universities
+
+The shangaiData is read
+All the universities of the shanghaiData are considered.
+Only top 81 universities are taken for the analysis.
+Using the sns the plot is generated
+AUnique university names and ranks are considered
+a variable called var is first initialized to -1
+It is compared with the rank's last digit to find which range of rank the universisty lies in
+Depending on that the variable is incremented
+A darkgrid theme of seaborn is used to plot the rankigns of the universities from 2011 to 2015 of the shangaiData.
+
+<img 
+src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Analysis3part2finala.PNG" alt='sadad'/>
+
+<img 
+src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Analysis3part2finalb.PNG" alt='sadad'/>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
