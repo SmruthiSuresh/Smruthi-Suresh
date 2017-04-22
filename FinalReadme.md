@@ -29,3 +29,29 @@ The radar graph shows the different properties of northeastern defined in the di
 
 <img 
 src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Anal%202%20part%202img.PNG" alt='sadad'/>
+
+
+
+#Analysis 3
+Part 1: Analyzing the difference in quality of Education is represented by plotting a seaborn plot.
+Part 2: Analyzing the difference in ranking from 2011 to 2015 for the top 81 universities in terms of the shanghaiData.
+Analysis is done on the cwur rankings file
+Firstly the file is read
+Function that returns the quality of educaiton is defined
+A dataframe containing worldrank,country and quality of education of USA ad UK is defined
+USA is passed as the argument to the funciton so that the quality of education of only the universities in USA is considered
+
+A seaborn plot of
+
+
+
+
+
+
+
+
+
+
+
+
+
