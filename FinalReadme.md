@@ -72,6 +72,9 @@ src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Analysis3part2f
 
 
 
+Analysis 4
+Part 1 : TimesData is analysed and the difference in the income between USA and East Asian Countries's universities are plotted
+Part 2 : 
 
 
 
