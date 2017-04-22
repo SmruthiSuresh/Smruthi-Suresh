@@ -74,7 +74,19 @@ src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Analysis3part2f
 
 Analysis 4
 Part 1 : TimesData is analysed and the difference in the income between USA and East Asian Countries's universities are plotted
-Part 2 : 
+Part 2 : Plots between density and income is plotted.. Mean Income density of USA, JAPAn, Mixed income density is calculated.
+
+part1:
+•	Data of USA , Korea, China and Korea are selected.
+•	All the universities in these countries without any income field are dropped.
+•	Separate bar plots for China,Korea, Japan, USA are represented with their respective income values against the percentage of the number of universities with that income.
+
+<img 
+src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/analysis4part1.PNG" alt='sadad'/>
+
+
+
+  
 
 
 
