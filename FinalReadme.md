@@ -28,4 +28,4 @@ The radar graph is plotted by setting the axis plot as polar.
 The radar graph shows the different properties of northeastern defined in the dictionary for the year 2016.
 
 <img 
-src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Ana2PArt1img.PNG" alt='sadad'/>
+src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Anal%202%20part%202img.PNG" alt='sadad'/>
