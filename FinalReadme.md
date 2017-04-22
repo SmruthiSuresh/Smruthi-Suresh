@@ -1,7 +1,7 @@
-Analysis 2.
+#Analysis 2.
 Analysis in this question has been split up in 2 parts
-Part 1: Variation in the ranking of Northeastern University from 2005 to 2015.
-Part 2: A radar chart showing the score that Neu was given in terms of research, income, citations,teaching, international.
+#Part 1: Variation in the ranking of Northeastern University from 2005 to 2015.
+#Part 2: A radar chart showing the score that Neu was given in terms of research, income, citations,teaching, international.
 VARIATION IN RANKING OF NEU FROM 2005 TO 2015
 •	All the three files (times data,cwurdata and shangaiData) are read
 •	Name of university is set to Northeastern Unievrsity like(myuniv name=['Northeastern University'])
