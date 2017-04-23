@@ -76,13 +76,54 @@ Analysis 4
 Part 1 : TimesData is analysed and the difference in the income between USA and East Asian Countries's universities are plotted
 Part 2 : Plots between density and income is plotted.. Mean Income density of USA, JAPAn, Mixed income density is calculated.
 
-part1:
+Part1:
 •	Data of USA , Korea, China and Korea are selected.
 •	All the universities in these countries without any income field are dropped.
 •	Separate bar plots for China,Korea, Japan, USA are represented with their respective income values against the percentage of the number of universities with that income.
 
 <img 
 src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/analysis4part1.PNG" alt='sadad'/>
+
+Part 2:
+
+Income is plotted in the x axis and the density in the y axis for the meand density of  Japan, US and mixed mean densities.
+
+<img 
+src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/analysis4part2.PNG" alt='sadad'/>
+
+<img 
+src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/analysis4part2b.PNG" alt='sadad'/>
+
+Analysis 1:
+The data from timesData is read
+École Polytechnique Fédérale de Lausanne University is considered for this analysis
+World Rank, Total score, research and international are converted to float.
+A plot is made that shows the world ranking of Polytechnique university from 2011 to 2016.
+<img 
+src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Analysis1%20part1a.PNG" alt='sadad'/>
+
+
+
+Ranking vs total score is also plotted
+<img 
+src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Analysis1Part1b.PNG" alt='sadad'/>
+
+
+A bar graph is also plotted that shows the quality of teaching, research etc throught the 5 years
+Plotting a bar graph to show the quality of teaching,research, citations etc from 2011 to 2016.
+
+<img 
+src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Analysis1Part1b1.PNG" alt='sadad'/>
+
+All 4 graphs(income, research, teaching, citations) is plotted.
+
+<img 
+src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Analysis1part2a.PNG" alt='sadad'/>
+
+
+
+
+
 
 
 
