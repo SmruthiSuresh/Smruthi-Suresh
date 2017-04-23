@@ -124,21 +124,25 @@ src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Analysis1part2a
 Part 1: Only Data science Programs are analysed and their scores are found.
 Part 2: Difference between the Score valuesof cwur, Times and Shangai data are represented.
 
-Part 1:
+## Part 1:
 A list of all the data-science programs are got from  this link "http://datascience.community/colleges" and is saved in the variable programs.
 A 'checkuniv' funciton is defined 
 If a program in the list of porograms defined matches programs in the cwur data then only the score of those universities with Data Science programs is considered.
+<img 
+src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/analysis5part1.PNG" alt='sadad'/>
 
-Part 2:
+## Part 2:
 Cwur file is read
 University scores of all years are grouped based on the name of the University.
 Scores of cwur, Shanghai and Times Data as a whole are compared and plotted.
 Universities with Nan values of scores are not considered in the analysis...if not np.isnan(x) is used to do the same.
+<img 
+src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/analysis5part2a.PNG" alt='sadad'/>
 
+Boxplot is also done to show the difference in scores of cwur,times and shangaiData.
+<img 
+src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/analysis5part2b.PNG" alt='sadad'/>
 
-
-
-Boxplot is also done to show the difference in scores of cwur,times and shangaiData.\
 
 
 
