@@ -1,7 +1,7 @@
-#Analysis 2.
+# Analysis 2.
 Analysis in this question has been split up in 2 parts
-#Part 1: Variation in the ranking of Northeastern University from 2005 to 2015.
-#Part 2: A radar chart showing the score that Neu was given in terms of research, income, citations,teaching, international.
+## Part 1: Variation in the ranking of Northeastern University from 2005 to 2015.
+## Part 2: A radar chart showing the score that Neu was given in terms of research, income, citations,teaching, international.
 VARIATION IN RANKING OF NEU FROM 2005 TO 2015
 •	All the three files (times data,cwurdata and shangaiData) are read
 •	Name of university is set to Northeastern Unievrsity like(myuniv name=['Northeastern University'])
@@ -32,9 +32,9 @@ src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Anal%202%20part
 
 
 
-#Analysis 3
-Part 1: Analyzing the difference in quality of Education is represented by plotting a seaborn plot.
-Part 2: Analyzing the difference in ranking from 2011 to 2015 for the top 81 universities in terms of the shanghaiData.
+# Analysis 3
+## Part 1: Analyzing the difference in quality of Education is represented by plotting a seaborn plot.
+## Part 2: Analyzing the difference in ranking from 2011 to 2015 for the top 81 universities in terms of the shanghaiData.
 Analysis is done on the cwur rankings file
 Firstly the file is read
 Function that returns the quality of educaiton is defined
@@ -72,9 +72,9 @@ src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Analysis3part2f
 
 
 
-Analysis 4
-Part 1 : TimesData is analysed and the difference in the income between USA and East Asian Countries's universities are plotted
-Part 2 : Plots between density and income is plotted.. Mean Income density of USA, JAPAn, Mixed income density is calculated.
+# Analysis 4
+## Part 1 : TimesData is analysed and the difference in the income between USA and East Asian Countries's universities are plotted
+## Part 2 : Plots between density and income is plotted.. Mean Income density of USA, JAPAn, Mixed income density is calculated.
 
 Part1:
 •	Data of USA , Korea, China and Korea are selected.
@@ -94,7 +94,7 @@ src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/analysis4part2.
 <img 
 src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/analysis4part2b.PNG" alt='sadad'/>
 
-Analysis 1:
+# Analysis 1:
 The data from timesData is read
 École Polytechnique Fédérale de Lausanne University is considered for this analysis
 World Rank, Total score, research and international are converted to float.
@@ -120,7 +120,27 @@ All 4 graphs(income, research, teaching, citations) is plotted.
 <img 
 src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Analysis1part2a.PNG" alt='sadad'/>
 
-Analysis 5:
+# Analysis 5:
+Part 1: Only Data science Programs are analysed and their scores are found.
+Part 2: Difference between the Score valuesof cwur, Times and Shangai data are represented.
+
+Part 1:
+A list of all the data-science programs are got from  this link "http://datascience.community/colleges" and is saved in the variable programs.
+A 'checkuniv' funciton is defined 
+If a program in the list of porograms defined matches programs in the cwur data then only the score of those universities with Data Science programs is considered.
+
+Part 2:
+Cwur file is read
+University scores of all years are grouped based on the name of the University.
+Scores of cwur, Shanghai and Times Data as a whole are compared and plotted.
+Universities with Nan values of scores are not considered in the analysis...if not np.isnan(x) is used to do the same.
+
+
+
+
+Boxplot is also done to show the difference in scores of cwur,times and shangaiData.\
+
+
 
 
 
