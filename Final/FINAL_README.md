@@ -16,8 +16,7 @@
 <img 
 src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Ana2PArt1img.PNG" alt='sadad'/>
 
-### Part 2: A radar chart showing the score that Neu was given in terms of research, income, citations,teaching,
-international only for the year 2016.
+### Part 2: A radar chart showing the score that Neu was given in terms of research, income, citations,teaching,international only for the year 2016.
 #### •	Necessary libraries like matplotlib.path, matplotlib.pyplot and matplotlib.patches are imported.
 #### •	Data of timesData is read
 #### •	Factors that we would like to condiser in making the radar chart like teaching, international, citations, research and income are 
