@@ -1,0 +1,152 @@
+,university_name,score_cwur,ds_master
+1,Aalborg University,-0.3433768262031827,True
+2,Aalto University,-0.2348172918070419,True
+3,Aarhus University,0.5526701243681342,True
+17,Arizona State University,0.33942818180428747,True
+18,Aston University,-0.38300967209383663,True
+19,Auburn University,-0.3287299048957668,True
+30,Beijing Institute of Technology,-0.39679500979493476,True
+35,BenGurion University of the Negev,-0.1857070262468837,True
+42,Boston University,0.7689276095540981,True
+43,Bowling Green State University,-0.3993797606138906,True
+45,Brandeis University,0.016765121237980844,True
+49,Brown University,0.5367308276512404,True
+58,Carnegie Mellon University,1.0187868553864827,True
+59,Case Western Reserve University,0.4337715866961713,True
+76,Chinese University of Hong Kong,0.1270478228467585,True
+88,City University London,-0.3123598163757141,True
+95,Colorado State University  Fort Collins,-0.01769822301476141,True
+100,Cornell University,5.8785491868264055,True
+102,Creighton University,-0.3020208130998908,True
+110,Deakin University,-0.3494079114474134,True
+116,Drexel University,-0.007359219738939345,True
+117,Dublin City University,-0.4071340130707568,True
+125,Eindhoven University of Technology,-0.17881435739633528,True
+147,Florida International University,-0.35974691472323667,True
+159,George Mason University,-0.247741045901821,True
+160,George Washington University,0.2183756851165276,True
+161,Georgetown University,0.5854103014082409,True
+164,Georgia State University,-0.30977506555675827,True
+184,Harvard University,9.184014692467615,True
+195,Hong Kong University of Science and Technology,-0.1047181672529379,True
+206,Illinois Institute of Technology,-0.29340497703670554,True
+207,Imperial College London,1.9785909928253762,True
+215,Indiana University  Bloomington,0.36714245447420213,True
+216,Indiana UniversityPurdue University Indianapolis,0.3407205572137654,True
+242,Johns Hopkins University,3.8141948660871003,True
+282,Lancaster University,-0.25808004917764427,True
+289,Linkping University,-0.13918151150568137,True
+298,Loyola University Chicago,-0.2598032163902811,True
+301,Maastricht University,0.060705885160228595,True
+302,Macquarie University,-0.28134280654824545,True
+313,Massey University,-0.3649164163611471,True
+318,Medical University of South Carolina,-0.1047181672529379,True
+322,Michigan State University,0.6052267243535684,True
+323,Michigan Technological University,-0.3985181770075716,True
+329,Missouri University of Science and Technology,-0.3735322524243336,True
+369,National University of Ireland Galway,-0.3425152425968637,True
+373,National University of Singapore,0.6922466685917437,True
+376,New Jersey Institute of Technology,-0.38214808848751886,True
+379,New York University,3.37780276948674,True
+380,Newcastle University,0.10206189826352052,True
+387,Northeastern University,-0.07887065906337967,True
+394,Northwestern University,2.431783969748946,True
+398,Oakland University,-0.4166114327402623,True
+401,Ohio University,-0.2796196393356086,True
+407,Oregon State University,-0.014251888589486571,True
+411,OttovonGuericke University Magdeburg,-0.3114982327693963,True
+427,Polytechnic University of Turin,-0.3554389966916428,True
+439,Queens University,-0.05474631808645948,True
+445,Radboud University Nijmegen,0.49494402274479077,True
+447,Rensselaer Polytechnic Institute,-0.0013281344947086852,True
+456,Royal Holloway University of London,-0.3235604032578552,True
+457,Royal Institute of Technology,0.6439979866379033,True
+468,Saint Louis University,-0.19518444591638798,True
+497,Simon Fraser University,-0.2089697836174861,True
+507,Southern Methodist University,0.3682912326159604,True
+511,Stanford University,8.373695310724994,True
+523,Syracuse University,-0.2718653868787412,True
+530,Technical University of Denmark,0.22699152117971286,True
+538,Temple University,-0.21758561968067136,True
+540,Texas AM University College Station,0.3566598539306592,True
+568,Universidade Nova de Lisboa,-0.35974691472323544,True
+569,University College Cork,-0.26928063605978536,True
+570,University College Dublin,0.01331878681270723,True
+571,University College London,2.0557027255908884,True
+584,University of Alberta,0.3372742227884905,True
+591,University of Arizona,0.7280023882539651,True
+597,University of Barcelona,0.5647322948565955,True
+617,University of Bristol,0.18506111900554365,True
+627,University of California Berkeley,6.974483534063633,True
+628,University of California Davis,1.0097402275201386,True
+629,University of California Irvine,0.6801844981032836,True
+633,University of California San Diego,3.203762881010387,True
+645,University of Central Florida,-0.23050937377545047,True
+648,University of Chicago,6.414454189956556,True
+653,University of Colorado Boulder,1.0403264455444483,True
+654,University of Colorado Denver,0.5052830260206128,True
+656,University of Connecticut,0.0865533933497856,True
+666,University of Denver,-0.2727269704850602,True
+668,University of Dundee,0.02710412451380413,True
+670,University of East Anglia,-0.1684753541205132,True
+677,University of Essex,-0.34768474423477536,True
+682,University of Florida,0.8555167619891132,True
+688,University of Georgia,0.15892641628054616,True
+702,University of Helsinki,0.12144752940568797,True
+712,University of Illinois at Chicago,0.1391099933352198,True
+713,University of Illinois at UrbanaChampaign,2.298238510769567,True
+721,University of Kansas,0.16668066873741363,True
+722,University of Kent,-0.3778401704559262,True
+730,University of Leeds,0.36484489819068433,True
+731,University of Leicester,0.015903537631663054,True
+735,University of Liverpool,0.15289533103631672,True
+741,University of Louisville,-0.11074925249716733,True
+746,University of Manchester,0.5901490112429923,True
+752,University of Maryland Baltimore County,-0.3020208130998908,True
+753,University of Maryland College Park,0.6655375767958677,True
+754,University of Massachusetts Amherst,0.11929357038989104,True
+759,University of Memphis,-0.3864560065191127,True
+761,University of Miami,0.4570343440667737,True
+762,University of Michigan Ann Arbor,2.5549904254525027,True
+764,University of Milan  Bicocca,-0.2339557082007241,True
+771,University of MissouriSt Louis,-0.3864560065191127,True
+782,University of Mnster,0.14341791136681123,True
+788,University of Nebraska Omaha,-0.2908202262177497,True
+792,University of Nevada Reno,-0.2770348885166528,True
+801,University of North Carolina at Chapel Hill,1.453886576577364,True
+802,University of North Carolina at Charlotte,-0.39162550815702313,True
+803,University of North Carolina at Greensboro,-0.41747301634658013,True
+806,University of Notre Dame,1.1299311406015806,True
+807,University of Nottingham,0.12130393213796833,True
+808,University of Oklahoma  Norman Campus,-0.05043840005486808,True
+815,University of Otago,-0.18656860985320273,True
+818,University of Oviedo,-0.3399304917779079,True
+830,University of Perugia,-0.18053752460897207,True
+832,University of Pisa,-0.09265599676447779,True
+833,University of Pittsburgh  Pittsburgh Campus,0.8253613357679637,True
+849,University of Rochester,0.6129809768104346,True
+869,University of Siena,-0.2718653868787412,True
+872,University of South Australia,-0.3864560065191127,True
+873,University of South Carolina  Columbia,-0.09351758037079681,True
+875,University of Southampton,0.4122319965382069,True
+876,University of Southern California,1.1609481504290482,True
+879,University of St Andrews,-0.117641921347717,True
+882,University of Strathclyde,-0.2796196393356086,True
+884,University of Surrey,-0.3089134819504405,True
+892,University of Technology Sydney,-0.4097187638897126,True
+901,University of Texas at Austin,2.1879558091607905,True
+902,University of Texas at Dallas,0.44066425554671973,True
+904,University of Texas at San Antonio,-0.030621977109539292,True
+923,University of Utah,1.0566965340644998,True
+931,University of Vienna,0.12101673760252907,True
+933,University of Virginia,0.8891185226355377,True
+937,University of Warwick,-0.10557975085925568,True
+944,University of WisconsinMadison,2.6738889631244653,True
+945,University of WisconsinMilwaukee,-0.3166677344073067,True
+966,Utrecht University,0.2821328719841029,True
+973,Virginia Commonwealth University,0.02451937369484831,True
+974,Virginia Polytechnic Institute and State University,-0.019421390227398215,True
+978,Wake Forest University,0.39413874080551736,True
+986,West Virginia University,-0.25808004917764427,True
+987,Western Michigan University,-0.4140266819213065,True
+1009,York University,-0.19776919673534382,True
