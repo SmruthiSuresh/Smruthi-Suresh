@@ -120,6 +120,10 @@ All 4 graphs(income, research, teaching, citations) is plotted.
 <img 
 src="https://github.com/SmruthiSuresh/Smruthi-Suresh/blob/master/Analysis1part2a.PNG" alt='sadad'/>
 
+Analysis 5:
+
+
+
 
 
 
